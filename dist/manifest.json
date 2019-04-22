@@ -26,6 +26,7 @@
       "https://*.gitbook.com/*",
       "https://*.gitbooks.io/*",
       "https://github.com/*",
+      "https://gitlab.com/*",
       "https://gist.github.com/*",
       "https://developer.github.com/*",
       "http://stackexchange.com/*",
